@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2258a71-8cf6-45c6-b513-3c58fd844ddf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1idmYaUuDRc5pvSVB0SobWCK0W3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2258a71-8cf6-45c6-b513-3c58fd844ddf" name="Default Changelist" comment="" />
+      <created>1602245893439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602245893439</updated>
+      <workItem from="1602245894786" duration="2396000" />
+      <workItem from="1602258565293" duration="344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1097" y="301" width="676" height="431" key="EditFileWatcherDialog" timestamp="1602247920043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1097" y="301" width="676" height="431" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602247920043" />
+    <state width="1899" height="277" key="GridCell.Tab.0.bottom" timestamp="1602246922371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602246922371" />
+    <state width="1899" height="277" key="GridCell.Tab.0.center" timestamp="1602246922370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602246922370" />
+    <state width="1899" height="277" key="GridCell.Tab.0.left" timestamp="1602246922370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602246922370" />
+    <state width="1899" height="277" key="GridCell.Tab.0.right" timestamp="1602246922370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602246922370" />
+    <state x="479" y="277" key="SettingsEditor" timestamp="1602248290948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="479" y="277" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602248290948" />
+  </component>
+</project>
